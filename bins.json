@@ -1,0 +1,142 @@
+{
+  "bins": [
+    {
+      "id": "A-01-02",
+      "zone": "A",
+      "row": "01",
+      "shelf": "02",
+      "type": "small",
+      "capacity": 100,
+      "currentStock": [
+        {
+          "sku": "ARM-SENS-001",
+          "quantity": 45,
+          "lastUpdated": "2025-07-02T08:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "A-02-05",
+      "zone": "A",
+      "row": "02",
+      "shelf": "05",
+      "type": "small",
+      "capacity": 200,
+      "currentStock": [
+        {
+          "sku": "ARM-DOOR-004",
+          "quantity": 150,
+          "lastUpdated": "2025-07-01T14:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "A-03-04",
+      "zone": "A",
+      "row": "03",
+      "shelf": "04",
+      "type": "small",
+      "capacity": 150,
+      "currentStock": [
+        {
+          "sku": "ARM-PANIC-008",
+          "quantity": 82,
+          "lastUpdated": "2025-07-02T09:15:00Z"
+        }
+      ]
+    },
+    {
+      "id": "B-03-01",
+      "zone": "B",
+      "row": "03",
+      "shelf": "01",
+      "type": "large",
+      "capacity": 50,
+      "currentStock": [
+        {
+          "sku": "ARM-CTRL-003",
+          "quantity": 12,
+          "lastUpdated": "2025-06-30T16:20:00Z"
+        }
+      ]
+    },
+    {
+      "id": "C-02-03",
+      "zone": "C",
+      "row": "02",
+      "shelf": "03",
+      "type": "medium",
+      "capacity": 100,
+      "currentStock": [
+        {
+          "sku": "ARM-KEY-005",
+          "quantity": 68,
+          "lastUpdated": "2025-07-01T11:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "D-01-02",
+      "zone": "D",
+      "row": "01",
+      "shelf": "02",
+      "type": "small",
+      "capacity": 150,
+      "currentStock": [
+        {
+          "sku": "ARM-SMOKE-006",
+          "quantity": 95,
+          "lastUpdated": "2025-07-02T07:45:00Z"
+        }
+      ]
+    },
+    {
+      "id": "E-03-01",
+      "zone": "E",
+      "row": "03",
+      "shelf": "01",
+      "type": "large",
+      "capacity": 40,
+      "currentStock": [
+        {
+          "sku": "ARM-SIREN-002",
+          "quantity": 28,
+          "lastUpdated": "2025-06-29T13:30:00Z"
+        }
+      ]
+    },
+    {
+      "id": "F-02-02",
+      "zone": "F",
+      "row": "02",
+      "shelf": "02",
+      "type": "medium",
+      "capacity": 60,
+      "currentStock": [
+        {
+          "sku": "ARM-CAM-007",
+          "quantity": 35,
+          "lastUpdated": "2025-07-01T09:00:00Z"
+        }
+      ]
+    },
+    {
+      "id": "A-04-01",
+      "zone": "A",
+      "row": "04",
+      "shelf": "01",
+      "type": "overflow",
+      "capacity": 500,
+      "currentStock": []
+    },
+    {
+      "id": "B-01-01",
+      "zone": "B",
+      "row": "01",
+      "shelf": "01",
+      "type": "overflow",
+      "capacity": 300,
+      "currentStock": []
+    }
+  ]
+}
